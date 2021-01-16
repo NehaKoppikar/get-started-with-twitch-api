@@ -1,0 +1,16 @@
+authentication_bearer: AUTOMATICALLY_GENERATED
+bot_version: 1.1
+channel: nehakoppikar
+channel_id: '634507386'
+client_id: nsyiknp12ek2hi87fofou7fl4jf69o
+client_secret: gi9sxqdiydcjpt94u5lvvdbnarsnu3
+colored_logs: true
+nick: nehakoppikar
+prefix: PREFIX_HERE
+startup_cogs:
+- cogs.channel_information
+- cogs.events
+- cogs.moderation
+- cogs.social_medias
+- cogs.stream_information
+token: oauth:roo0n0jyu2ykar9pz494lnxmyosdhz
